@@ -1,6 +1,6 @@
 # DS_PythonProject
 
-### Case Study: Bank Telemarketing Campaign
+### Bank Telemarketing Campaign Data Analysis using Python
 
 **_Description_:**
 - The bank aims to enhance its revenue by conducting a cost-efficient telemarketing campaign for term deposits among existing customers. Term deposits, fixed investments with predetermined interest rates, serve to foster long-term customer relationships.
